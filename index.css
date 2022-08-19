@@ -1,0 +1,19 @@
+h1{ 
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    font-size: 20px;
+    background-color: rgb(46, 76, 158);
+    color: rgb(180, 245, 2);
+}
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: lightgray;
+}
+a:hover{
+    color: #eee;
+}

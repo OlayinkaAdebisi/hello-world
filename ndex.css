@@ -1,0 +1,22 @@
+table,th,td{
+    border: 1px solid black;
+}
+.title:hover{
+    color: red;
+}
+.subtitle{
+    color: blue;
+}
+#man{
+    color: blue;
+}
+
+li:nth-child(2){
+    color: red;
+}
+#googlr:link{
+    color: blue;
+}
+#goolr:visited{
+ color: red;
+}

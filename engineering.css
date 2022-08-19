@@ -1,0 +1,12 @@
+body{ 
+   background-color:  rgb(6, 35, 68); 
+  color:whitesmoke;
+  font-size: 20px;
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgba(47, 0, 255, 0.61);
+    font-size: 60px;
+    opacity: 1.6;
+}
